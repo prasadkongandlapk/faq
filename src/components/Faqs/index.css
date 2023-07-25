@@ -1,0 +1,15 @@
+.bg {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+.bgggg {
+  color: #cb8805;
+}
